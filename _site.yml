@@ -9,6 +9,6 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: cerulean
-    highlight: textmate
+    theme: united
+    highlight: tango
 
