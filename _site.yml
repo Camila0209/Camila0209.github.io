@@ -8,7 +8,7 @@ navbar:
     - text: "About"
       href: about.html
 output:
-  html_document:
+  html_dependency:
     theme: cosmo
     highlight: textmate
 
