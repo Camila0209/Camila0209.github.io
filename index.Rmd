@@ -12,7 +12,8 @@ output:
      
 title: |
          |Semillero
-         |Mediciones económicas
+         |Mediciones económicas, semillero 
+         |Henry Sebastian 
 autor:
 - name: María Camila Pinilla Ramírez
   affiliation: Estudiante, Universidad Santo Tomas
@@ -35,6 +36,8 @@ head-includes:
 # Introducción
 
 Hoy aprenderemos a hacer páginas web con Rmarkdown
+
+Segunda correción
   
 ---
 
