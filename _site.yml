@@ -11,3 +11,4 @@ output:
   html_document:
     theme: cayman
     highlight: github
+library(prettydoc)
