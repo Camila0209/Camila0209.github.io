@@ -2,5 +2,4 @@
 title: "About This Website"
 ---
 
-More about this website. 
-Semillero
+Este es un taller sobre páginas web en Rmarkdown y Github.
