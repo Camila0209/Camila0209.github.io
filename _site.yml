@@ -1,3 +1,4 @@
+library(prettydoc)
 name: "my-website"
 output_dir: "."
 navbar:
@@ -8,7 +9,7 @@ navbar:
     - text: "About"
       href: about.html
 output:
-  html_document:
+  prettydoc::html_document:
     theme: cayman
     highlight: github
-library(prettydoc)
+
