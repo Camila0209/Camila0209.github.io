@@ -8,7 +8,7 @@ navbar:
     - text: "About"
       href: about.html
 output:
-  html_document:
+  rmdformats::html_rmdformats:
     theme: readthedown
     highlight: textmate
 
