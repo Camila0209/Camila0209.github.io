@@ -8,7 +8,7 @@ navbar:
     - text: "About"
       href: about.html
 output:
-  prettydoc::html_pretty:
+  html_document:
     theme: architect
     highlight: textmate
 
