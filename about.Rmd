@@ -3,3 +3,5 @@ title: "About This Website"
 ---
 
 Este es un taller sobre páginas web en Rmarkdown y Github.
+
+Estudiante María Camila Pinilla Ramírez 
