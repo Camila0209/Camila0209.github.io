@@ -1,0 +1,40 @@
+---
+title: "My Website"
+Hello, Website!
+# output: github_document
+output: 
+   pdf_document:
+     keep_text: true 
+     fig_Caption: true
+     latex_engine: pdflatex
+     template: svm-latex.ms.text
+     number_sections: true
+     
+title: |
+         |Semillero
+         |Mediciones económicas
+autor:
+- name: María Camila Pinilla Ramírez
+  affiliation: Estudiante, Universidad Santo Tomas
+abstract: "Resumen"
+keywords: "Rmarkdown, github"
+date: "'r format(Sys.time(), '%10 %09, %2021')'"
+geometry: margin=1in 
+fontfamily: mathpazo
+fontsize: 12pt
+# spacing: double 
+bibliography: bibliography.bib
+# csl: plos-one.csl
+csl: apa.casl
+head-includes:
+  \usepackage{pdflscape}
+  \newcommand{\blandscape}{\begin{landscape}}
+  \newcommand{\elandscape}{\end{landscape}}
+---
+
+# Introducción
+
+Hoy aprenderemos a hacer páginas web con Rmarkdown
+  
+---
+
