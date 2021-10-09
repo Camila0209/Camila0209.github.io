@@ -9,7 +9,7 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: null
-    highlight: null
+    theme: united
+    highlight: textmate
     
 
