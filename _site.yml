@@ -10,5 +10,5 @@ navbar:
 output:
   rmarkdown::html_document:
     theme: lumen
-    highlight: textmate
+
 
